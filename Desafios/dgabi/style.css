@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #146551;
+    margin: 0px;}
+h1 {
+    background-color: #589A8D;
+}
+
+article {
+    background-color: white;
+    padding: 3px;
+    box-shadow: 3px 8px 7px 1px black;
+}
+article > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 30px;
+}
+article > p:hover {
+    text-decoration: underline;
+}
+main{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
