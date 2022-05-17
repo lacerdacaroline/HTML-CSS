@@ -8,42 +8,42 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex002/index.html">Executar o exercicio 002.</a>
 
-Executar o exercicio 003.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex003/index.html">Executar o exercicio 003.</a>
 
-Executar o exercicio 004.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex004/index.html">Executar o exercicio 004.</a>
 
-Executar o exercicio 005.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex005/index.html">Executar o exercicio 005.</a>
 
-Executar o exercicio 006.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex006/index.html">Executar o exercicio 006.</a>
 
-Executar o exercicio 007.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex007/index.html">Executar o exercicio 007.</a>
 
-Executar o exercicio 008.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex008/index.html">Executar o exercicio 008.</a>
 
-Executar o exercicio 009.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex009/index.html">Executar o exercicio 009.</a>
 
 <a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex010/index.html">Executar o exercicio 010.</a>
 
-Executar o exercicio 011.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex011/index.html">Executar o exercicio 011.</a>
 
-Executar o exercicio 012.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex012/index.html">Executar o exercicio 012.</a>
 
-Executar o exercicio 013.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex013/index.html">Executar o exercicio 013.</a>
 
-Executar o exercicio 014.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex014/index.html">Executar o exercicio 014.</a>
 
-Executar o exercicio 015.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex015/index.html">Executar o exercicio 015.</a>
 
-Executar o exercicio 016.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex016/index.html">Executar o exercicio 016.</a>
+ 
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex017/index.html">Executar o exercicio 017.</a>
 
-Executar o exercicio 017.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex018/index.html">Executar o exercicio 018.</a>
 
-Executar o exercicio 018.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex019/index.html">Executar o exercicio 019.</a>
 
-Executar o exercicio 019.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex020/index.html">Executar o exercicio 020.</a>
 
-Executar o exercicio 020.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex021/index.html">Executar o exercicio 021.</a>
 
-Executar o exercicio 021.
-
-Executar o exercicio 022.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex022/index.html">Executar o exercicio 022.</a>
