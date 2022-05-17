@@ -6,7 +6,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href= "https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex001/index.html">Executar o exercicio 001.</a>
 
-Executar o exercicio 002.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex002/index.html">Executar o exercicio 002.</a>
 
 Executar o exercicio 003.
 
@@ -22,7 +22,7 @@ Executar o exercicio 008.
 
 Executar o exercicio 009.
 
-Executar o exercicio 010.
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex010/index.html">Executar o exercicio 010.</a>
 
 Executar o exercicio 011.
 
