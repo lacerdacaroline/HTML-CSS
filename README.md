@@ -34,16 +34,16 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex015/index.html">Executar o exercicio 015.</a>
 
-<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex016/index.html">Executar o exercicio 016.</a>
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex016/cor01.html">Executar o exercicio 016.</a>
  
-<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex017/index.html">Executar o exercicio 017.</a>
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex017/fontes01.html">Executar o exercicio 017.</a>
 
-<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex018/index.html">Executar o exercicio 018.</a>
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex018/fontes01.html">Executar o exercicio 018.</a>
 
-<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex019/index.html">Executar o exercicio 019.</a>
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex019/seletor01.html">Executar o exercicio 019.</a>
 
-<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex020/index.html">Executar o exercicio 020.</a>
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex020/hover.html">Executar o exercicio 020.</a>
 
-<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex021/index.html">Executar o exercicio 021.</a>
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex021/caixas03.html">Executar o exercicio 021.</a>
 
-<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex022/index.html">Executar o exercicio 022.</a>
+<a href="https://lacerdacaroline.github.io/HTML-CSS/Exercicio/ex022/fundo006.html">Executar o exercicio 022.</a>
